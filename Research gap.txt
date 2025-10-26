@@ -1,0 +1,7 @@
+[1]Accurate and lightweight oral cancer detection using SE-MobileViT on clinically validated image dataset ,Research,Open access
+Published: 24 July 2025  Volume 5, article number 173, (2025)
+**Research gap found:**
+“Small, single-center dataset with limited diversity and lack of full explainable AI limits generalization and clinical trust.”
+** Website link** https://link.springer.com/article/10.1007/s44163-025-00442-2?utm_source=chatgpt.com
+Conventional diagnostic methods for oral cancer primarily include visual inspection, biopsy, histopathological analysis, and imaging modalities such as CT and MRI
+
