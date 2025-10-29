@@ -1,4 +1,4 @@
-### Techniques used for diagnosis of oral cancer:
+## Techniques used for diagnosis of oral cancer:
 3.1. Physical examination:
 Doctors first check the mouth and nearby areas by looking and feeling for any unusual changes.
 They note lumps, swelling, color changes, or pain in areas like the lips, glands, and mouth to detect early signs of oral cancer.
